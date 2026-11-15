@@ -7,7 +7,7 @@
     "sizeMb": 17.6,
     "category": "工具",
     "iconUrl": "",
-    "apkUrl": "https://github.com/qq247048656/T1anJ1e/releases/download/v1.0/app-debug.apk"
+    "apkUrl": "https://github.com/qq247048656/T1anJ1e/releases/download/1.0/default.apk"
   },
   {
     "id": "n2",
@@ -17,7 +17,7 @@
     "sizeMb": 18.16,
     "category": "工具",
     "iconUrl": "",
-    "apkUrl": "https://github.com/qq247048656/T1anJ1e/releases/download/v1.0/app-debug.apk"
+    "apkUrl": "https://github.com/qq247048656/T1anJ1e/releases/download/diplay/DiPlay-0.2.22.apk"
   },
   {
     "id": "n3",
@@ -27,7 +27,7 @@
     "sizeMb": 5.82,
     "category": "工具",
     "iconUrl": "",
-    "apkUrl": "https://github.com/qq247048656/T1anJ1e/releases/download/v1.0/app-debug.apk"
+    "apkUrl":"https://github.com/qq247048656/T1anJ1e/releases/download/carup/CarUp4.0.apk"
   },
   {
     "id": "n4",
@@ -37,6 +37,6 @@
     "sizeMb": 16.16,
     "category": "工具",
     "iconUrl": "",
-    "apkUrl": "https://github.com/qq247048656/T1anJ1e/releases/download/v1.0/app-debug.apk"
+    "apkUrl": "https://github.com/qq247048656/T1anJ1e/releases/download/CarMore/CarMore-0.2.7.apk"
   }
 ]
