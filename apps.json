@@ -1,0 +1,42 @@
+[
+  {
+    "id": "n1",
+    "name": "应用管家",
+    "packageName": "com.example.starnav",
+    "version": "1.9.1",
+    "sizeMb": 17.6,
+    "category": "工具",
+    "iconUrl": "",
+    "apkUrl": ""
+  },
+  {
+    "id": "n2",
+    "name": "Diplay",
+    "packageName": "com.example.denoise",
+    "version": "0.2.22",
+    "sizeMb": 18.16,
+    "category": "工具",
+    "iconUrl": "",
+    "apkUrl": ""
+  },
+  {
+    "id": "n3",
+    "name": "CarUp",
+    "packageName": "com.example.podcast",
+    "version": "3.0",
+    "sizeMb": 5.82,
+    "category": "工具",
+    "iconUrl": "",
+    "apkUrl": ""
+  },
+  {
+    "id": "n4",
+    "name": "CarMore",
+    "packageName": "com.example.dashcam",
+    "version": "0.2.7",
+    "sizeMb": 16.16,
+    "category": "工具",
+    "iconUrl": "",
+    "apkUrl": ""
+  },
+]
