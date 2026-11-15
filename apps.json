@@ -38,5 +38,15 @@
     "category": "工具",
     "iconUrl": "",
     "apkUrl": "https://github.com/qq247048656/T1anJ1e/releases/download/CarMore/CarMore-0.2.7.apk"
+  },
+  {
+    "id": "n5",
+    "name": "动态壁纸",
+    "packageName": "com.example.dashcam",
+    "version": "0.2.7",
+    "sizeMb": 0.197,
+    "category": "工具",
+    "iconUrl": "",
+    "apkUrl": "https://github.com/qq247048656/T1anJ1e/releases/download/%E5%8A%A8%E6%80%81%E5%A3%81%E7%BA%B8/default.apk"
   }
 ]
