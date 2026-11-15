@@ -2,7 +2,7 @@
   {
     "id": "n1",
     "name": "应用管家",
-    "packageName": "com.example.guanjia",
+    "packageName": "yunpan.appmanage",
     "version": "1.9.1",
     "sizeMb": 17.6,
     "category": "工具",
@@ -42,7 +42,7 @@
   {
     "id": "n5",
     "name": "动态壁纸",
-    "packageName": "com.example.wallpaper",
+    "packageName": "yyc.xk.core",
     "version": "6.5.1",
     "sizeMb": 0.197,
     "category": "工具",
